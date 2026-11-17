@@ -1,0 +1,7 @@
+{
+  "_status": "PLACEHOLDER - not yet confirmed by the user. Ask once for 2 brand colors + font, then overwrite this file and set _status to CONFIRMED.",
+  "font": "Inter",
+  "text_color": "#FFFFFF",
+  "accent_color": "#FFD60A",
+  "uppercase": false
+}
